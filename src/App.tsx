@@ -34,7 +34,7 @@ export default function App() {
       .catch(console.error);
   }, []);
 
-  const miTelefono = "5211234567890";
+  const miTelefono = "526645999960";
 
   // ==========================================
   // DATA: GUARDIANES ANCESTRALES
