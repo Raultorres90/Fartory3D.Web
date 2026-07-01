@@ -34,7 +34,7 @@ export default function App() {
       .catch(console.error);
   }, []);
 
-  const miTelefono = "526645999960";
+  const miTelefono = "526631197438";
 
   // ==========================================
   // DATA: GUARDIANES ANCESTRALES
@@ -1476,7 +1476,7 @@ export default function App() {
               }
               className="text-zinc-400 hover:text-orange-500 transition-colors font-bold"
             >
-              +52 123 456 7890
+              +52 663 119 74 38
             </button>
             <p className="text-zinc-600 text-sm mt-4">
               © 2026 Fartory 3D. Todos los derechos reservados.
