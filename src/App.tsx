@@ -1463,13 +1463,17 @@ export default function App() {
   </a>
   
   {/* Tu TikTok */}
-  <a
+ <a
     href="https://www.tiktok.com/@fartory.3d" 
     target="_blank"
     rel="noopener noreferrer"
-    className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
+    className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
   >
-    <span className="text-3xl">🎵</span>
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" 
+      alt="TikTok" 
+      className="w-8 h-8" 
+    />
   </a>
 </div>
           </div>
