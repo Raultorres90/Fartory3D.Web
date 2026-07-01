@@ -53,7 +53,7 @@ export default function App() {
       },
       icono: (
         <img
-          src="/icono axolo.png"
+          src="/icono axolo.webp"
           alt="Axolo"
           className="w-20 h-20 object-contain brightness-125 contrast-125 drop-shadow-[0_0_25px_rgba(52,211,153,1)]"
         />
@@ -76,7 +76,7 @@ export default function App() {
       },
       icono: (
         <img
-          src="/icono xolo.png"
+          src="/icono xolo.webp"
           alt="Xolo"
           className="w-20 h-20 object-contain brightness-125 contrast-125 drop-shadow-[0_0_25px_rgba(52,211,153,1)]"
         />
@@ -99,7 +99,7 @@ export default function App() {
       },
       icono: (
         <img
-          src="/icono Ocelotl.png"
+          src="/icono Ocelotl.webp"
           alt="Ocelotl"
           className="w-20 h-20 object-contain brightness-125 contrast-125 drop-shadow-[0_0_25px_rgba(52,211,153,1)]"
         />
@@ -122,7 +122,7 @@ export default function App() {
       },
       icono: (
         <img
-          src="/icono corazon.png"
+          src="/icono corazon.webp"
           alt="Anomalía"
           className="w-20 h-20 object-contain brightness-125 contrast-125 drop-shadow-[0_0_25px_rgba(52,211,153,1)]"
         />
@@ -143,32 +143,32 @@ export default function App() {
     {
       id: "llaveros",
       nombre: "Llaveros",
-      imgCatalogo: "/Llavero2.png",
+      imgCatalogo: "/Llavero2.webp",
       items: [],
     },
-    { id: "figuras", nombre: "Figuras", imgCatalogo: "/Figura.png", items: [] },
+    { id: "figuras", nombre: "Figuras", imgCatalogo: "/Figura.webp", items: [] },
     {
       id: "lamparas",
       nombre: "Lámparas",
-      imgCatalogo: "/Lampara.png",
+      imgCatalogo: "/Lampara.webp",
       items: [],
     },
     {
       id: "custom",
       nombre: "Diseños Únicos",
-      imgCatalogo: "/Diseñosunicos.png",
+      imgCatalogo: "/Diseñosunicos.webp",
       items: [],
     },
     {
       id: "autopartes",
       nombre: "Autopartes",
-      imgCatalogo: "/Autopartes.png",
+      imgCatalogo: "/Autopartes.webp",
       items: [],
     },
     {
       id: "herramientas",
       nombre: "Herramientas y Accesorios",
-      imgCatalogo: "/Herramientas y accesorios.png",
+      imgCatalogo: "/Herramientas y accesorios.webp",
       items: [],
     },
   ];
@@ -285,7 +285,7 @@ export default function App() {
             className="hover:scale-105 transition-all duration-300"
           >
             <img
-              src="/Return2.png"
+              src="/Return2.webp"
               alt="Volver"
               className="h-16 md:h-24 object-contain drop-shadow-[0_0_10px_rgba(249,115,22,0.4)] hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.8)]"
             />
@@ -422,7 +422,7 @@ export default function App() {
             className="hover:scale-105 transition-all duration-300"
           >
             <img
-              src="/Return2.png"
+              src="/Return2.webp"
               alt="Volver al Inicio"
               className="h-16 md:h-24 object-contain drop-shadow-[0_0_10px_rgba(249,115,22,0.4)] hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.8)]"
             />
@@ -571,7 +571,7 @@ export default function App() {
             className="hover:scale-105 transition-all duration-300"
           >
             <img
-              src="/Return2.png"
+              src="/Return2.webp"
               alt="Volver al Inicio"
               className="h-16 md:h-24 object-contain drop-shadow-[0_0_10px_rgba(249,115,22,0.4)] hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.8)]"
             />
@@ -1087,7 +1087,7 @@ export default function App() {
             className="hover:scale-105 transition-all duration-300"
           >
             <img
-              src="/Return2.png"
+              src="/Return2.webp"
               alt="Volver"
               className="h-16 md:h-24 object-contain drop-shadow-[0_0_10px_rgba(249,115,22,0.4)] hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.8)]"
             />
@@ -1185,7 +1185,7 @@ export default function App() {
                 className="w-full p-6 rounded-2xl bg-zinc-900 border border-zinc-700 hover:border-orange-500 text-zinc-300 hover:text-white transition-all flex flex-col items-center gap-3 group shadow-[0_0_15px_rgba(249,115,22,0.1)]"
               >
                 <img
-                  src="/pergamino.png"
+                  src="/pergamino.webp"
                   alt="Pergamino"
                   className="w-16 h-28 object-contain brightness-125 contrast-125 saturate-125 drop-shadow-[0_0_15px_rgba(249,115,22,0.8)] group-hover:scale-110 transition-all duration-300"
                 />
@@ -1325,7 +1325,7 @@ export default function App() {
           className={`bg-zinc-900 border border-orange-500/30 rounded-3xl p-10 mb-12 relative z-10 ${glowOrangeStatic}`}
         >
           <img
-            src="/Logo.png"
+            src="/Logo.webp"
             alt="Fartory 3D Logo"
             className="w-72 md:w-[30rem] mx-auto object-contain drop-shadow-[0_0_35px_rgba(249,115,22,0.7)]"
           />
@@ -1354,7 +1354,7 @@ export default function App() {
           >
             <div className="flex items-center gap-3">
               <img
-                src="/icono tlalocode.png"
+                src="/icono tlalocode.webp"
                 alt="Guardianes"
                 className="w-16 h-16 object-contain"
               />
@@ -1438,7 +1438,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8 text-center md:text-left">
           <div className="flex flex-col items-center md:items-start">
             <img
-              src="/Fartory3D.png"
+              src="/Fartory3D.webp"
               alt="Fartory 3D Logo"
               className="h-80 md:h-[28rem] object-contain drop-shadow-[0_0_20px_rgba(249,115,22,0.6)]"
             />
