@@ -1452,19 +1452,26 @@ export default function App() {
               Síguenos
             </h4>
             <div className="flex gap-6">
-              <a
-                href="#"
-                className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
-              >
-                <span className="text-3xl">📷</span>
-              </a>
-              <a
-                href="#"
-                className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
-              >
-                <span className="text-3xl">🎵</span>
-              </a>
-            </div>
+  {/* Instagram o Red 1 */}
+  <a
+    href="https://instagram.com/tu-usuario" 
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
+  >
+    <span className="text-3xl">📷</span>
+  </a>
+  
+  {/* Tu TikTok */}
+  <a
+    href="https://www.tiktok.com/@fartory.3d" 
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-zinc-400 hover:text-orange-500 transition-colors drop-shadow-[0_0_5px_rgba(249,115,22,0,0)] hover:drop-shadow-[0_0_5px_rgba(249,115,22,0.8)]"
+  >
+    <span className="text-3xl">🎵</span>
+  </a>
+</div>
           </div>
           <div className="flex flex-col items-center md:items-end">
             <h4 className="text-white font-bold mb-4 uppercase tracking-widest text-sm">
